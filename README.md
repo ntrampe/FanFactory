@@ -7,5 +7,6 @@ Fan Factory uses a game engine / user interface framework that I created. The ga
 
 Known Issues:
 
+- Crashes on startup in iOS 9
 - Older versions of cocos2D and Box2D do not compile with Xcode's new suggested warnings
 - Doesn't use ARC
